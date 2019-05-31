@@ -18,10 +18,16 @@
   },
   "homepage": "https://github.com/WideSpreadX/liri-node-app#readme",
   "dependencies": {
+<<<<<<< HEAD
     "aframe-simple-shooter": "^1.0.1",
     "axios": "^0.18.0",
     "dotenv": "^8.0.0",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1"
+=======
+    "axios": "^0.18.0",
+    "node-spotify-api": "^1.1.1",
+    "omdb": "^0.8.0"
+>>>>>>> b11d6c806b87034114721b14aa2ba5df9ceae8d6
   }
 }
