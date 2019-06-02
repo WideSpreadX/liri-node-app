@@ -1,0 +1,147 @@
+
+This workedfunction siri() {
+    switch (userInput) {
+        case "concert-this":
+            concert();
+            break;
+        case "spotify-this-song":
+            spotify();
+            break;
+        case "movie-this":
+            movie();
+            break;
+        case "do-what-it-says":
+            doIt();
+            break;
+        default:
+            break;
+    }
+}spotify-this-song I Want it That Wayspotify-this-song I Want it That Way[object Object][object Object]The Bourbon HallKYLouisvilleThe Bourbon HallJune 7th 2019, 8:00 pm
+Be there or be square!Louisville
+June 7th 2019, 8:00 pm
+Be there or be square!The Bourbon Hall
+KY
+KY
+Louisville
+The Bourbon Hall
+June 7th 2019, 8:00 pm
+Be there or be square!KY
+Louisville
+The Bourbon Hall
+June 7th 2019, 8:00 pm
+Be there or be square!Scarface
+1983
+[object Object]
+R
+English, Spanish
+USA
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+ 
+[object Object]
+Scarface
+1983
+USA
+R
+English, Spanish
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+ 
+1983
+Scarface
+USA
+R
+[object Object]
+English, Spanish
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+ 
+1983
+R
+Scarface
+[object Object]
+USA
+English, Spanish
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+ 
+The Slim Shady LP
+ 
+null
+My Name Is
+null
+The Slim Shady LP
+ 
+My Name Is
+undefined
+My Name Is
+[object Object]
+The Slim Shady LP
+ 
+null
+Eminem
+null
+The Slim Shady LP
+ 
+My Name Is
+null
+Where The Hood At
+DMX
+Grand Champ
+ 
+Grand Champ
+ 
+null
+Where The Hood At
+DMX
+null
+DMX
+Grand Champ
+ 
+Where The Hood At
+That's Where It's At
+Sam Cooke
+null
+30 Greatest Hits: Portrait of a Legend 1951-1964
+ 
+June 7th 2019, 8:00 pm
+Be there or be square!Louisville
+The Bourbon Hall
+KY
+ 
+Louisville
+KY
+ 
+June 7th 2019, 8:00 pm
+Be there or be square!The Bourbon Hall
+Louisville
+KY
+ 
+The Bourbon Hall
+June 7th 2019, 8:00 pm
+Be there or be square!Where The Hood At
+null
+Grand Champ
+ 
+DMX
+null
+DMX
+Where The Hood At
+Grand Champ
+ 
+spotify-this-song I Want it That Way
+ 
+Backstreet Boys
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=235e29ce984841838b53fd8d781f7905
+The Hits--Chapter One
+ 
+I Want It That Way
+R
+Scarface
+[object Object]
+1983
+In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+English, Spanish
+USA
+Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+ 
